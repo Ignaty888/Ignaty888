@@ -1,10 +1,9 @@
 <h1 align="center">Hi there, I'm <a href="#" target="_blank">Ignaty Maximov</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
-<article class="markdown-body entry-content container-lg" itemprop="text"><h3 dir="auto"><a id="user-content-привет-я---юля-fullstack-разработчик" class="anchor" aria-hidden="true" href="#привет-я---юля-fullstack-разработчик"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Привет! Я - Юля, fullstack разработчик!</h3>
+<article class="markdown-body entry-content container-lg" itemprop="text"><h3 dir="auto"><a id="user-content-привет-я---юля-fullstack-разработчик" class="anchor" aria-
 <ul dir="auto">
 <li><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji> Интересуюсь web-разработкой, урбанистикой, путешествиями</li>
-<li><g-emoji class="g-emoji" alias="space_invader" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47e.png">👾</g-emoji> PERN stack</li>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Как связаться: <a href="mailto:glukhovajulia.jobs@gmail.com">glukhovajulia.jobs@gmail.com</a></li>
 </ul>
 <hr>
@@ -26,11 +25,7 @@
 <a href="https://github.com/juljuliks"><img align="left" alt="PostgreSQL" width="32px" src="https://camo.githubusercontent.com/8d335b3eeb19064d05982dc683315a44ab75cce4a6eec5aecf8833ddb3e26319/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35302f3030303030302f706f73746772656573716c2e706e67" data-canonical-src="https://img.icons8.com/color/50/000000/postgreesql.png" style="max-width: 100%;"></a>
 <a href="https://github.com/juljuliks"><img align="left" alt="Docker" width="32px" src="https://camo.githubusercontent.com/d5942ae771b21e3ea0576598c5c2b2070c0c4f6028e2605691a5c07b94923800/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f646f636b65722e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/docker.png" style="max-width: 100%;"></a>
 <a href="https://github.com/juljuliks"><img align="left" alt="Git" width="32px" src="https://camo.githubusercontent.com/bc60041f5ea7b022c6419b73a15aaac12a2ede682867ec0d3e3c9ec374dce54b/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6769742e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/git.png" style="max-width: 100%;"></a>
-<a href="https://github.com/juljuliks"><img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%;"></a>
-<a href="https://github.com/juljuliks"><img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width: 100%;"></a>
-<a href="https://github.com/juljuliks"><img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" style="max-width: 100%;"></a>
-<a href="https://github.com/juljuliks"><img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width: 100%;"></a></p>
-<br>
+<a href="https://github.com/juljuliks"><img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%;">
 <br>
 <br>
 <ul dir="auto">
