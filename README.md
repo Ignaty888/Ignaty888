@@ -41,9 +41,6 @@
 
 [![Ignaty GitHub stats](https://github-readme-stats.vercel.app/api?username=ignaty888&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/ignaty888)
 
-<br/>
-<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-<br/>
+
 
