@@ -44,4 +44,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/ignaty888/github-readme-stats)
 
-[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/Elf_ik)
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username) 
