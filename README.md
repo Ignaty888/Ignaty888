@@ -22,3 +22,5 @@
 - **BackEng**: Node.js, Express, Sessions/Tokens, CORS, WebSockets, hbs
 - **DataBase**: PostgreSQL, Sequelize ORM
 - **More**: Jest, Docker, REST
+
+[![Ignaty GitHub stats](https://github-readme-stats.vercel.app/api?username=ignaty888&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/ignaty888)
