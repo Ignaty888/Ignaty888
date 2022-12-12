@@ -38,11 +38,10 @@
 - **BackEng**: Node.js, Express, Sessions/Tokens, CORS, WebSockets
 - **DataBase**: PostgreSQL, Sequelize ORM
 - **More**: Jest, Docker, REST, C#
-<div>
+
+
 [![Ignaty GitHub stats](https://github-readme-stats.vercel.app/api?username=ignaty888&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/ignaty888)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/ignaty888/github-readme-stats)
- </div>
 
-
-
+[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/Elf_ik)
