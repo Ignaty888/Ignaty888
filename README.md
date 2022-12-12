@@ -2,8 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
- 👀 Шnterested in web development and new technologies
-- :space_invader: PERN stack
+ 👀 Interested in web development, new technologies
+
 - 📫 Сontact: ignatymaximovjob@gmail.com
 
 ---
@@ -34,9 +34,9 @@
 <br/>
 <br/>
 
-- **FrontEnd**: JS, TypeScript, React, Hooks API, Redux (Saga, Thunk, Toolkit), HTML5, CSS3, Sass
-- **BackEng**: Node.js, Express, Sessions/Tokens, CORS, WebSockets, hbs
+- **FrontEnd**: JS, TypeScript, React, Hooks API, Redux (Saga, Thunk, Toolkit), HTML5, CSS3, Sass, MIU
+- **BackEng**: Node.js, Express, Sessions/Tokens, CORS, WebSockets
 - **DataBase**: PostgreSQL, Sequelize ORM
-- **More**: Jest, Docker, REST
+- **More**: Jest, Docker, REST, C#
 
 [![Ignaty GitHub stats](https://github-readme-stats.vercel.app/api?username=ignaty888&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/ignaty888)
