@@ -1,6 +1,22 @@
 <h1 align="center">Hi there, I'm <a href="#" target="_blank">Ignaty Maximov</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+
+ 👀 Интересуюсь web-разработкой, урбанистикой, путешествиями
+- :space_invader: PERN stack
+- 📫 Как связаться: glukhovajulia.jobs@gmail.com
+
+---
+### Contact:
+
+<a href="https://t.me/elifirm" rel="nofollow"><img align="left" alt="juljuliks | Telegram" width="40px" src="https://camo.githubusercontent.com/802e6513a19383f844ad4138d311c7840c1c3718c586757a214a2f28b740ea7b/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f3030303030302f74656c656772616d2d6170702e706e67" data-canonical-src="https://img.icons8.com/fluency/48/000000/telegram-app.png" style="max-width: 100%;"></a>
+<a href="https://wa.me/79823878033" rel="nofollow"><img align="left" alt="juljuliks | WhatsApp" width="40px" src="https://camo.githubusercontent.com/d2948d147ff253ef819a8ce84bb82758d699907bc2fcf7a005ebd591edfb0317/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f77686174736170702e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/whatsapp.png" style="max-width: 100%;"></a>
+
+<br>
+
+<br/>
+<br/>
+
 <h3>My stack</h3>
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="32px" src="https://img.icons8.com/color/48/000000/typescript.png"/>
