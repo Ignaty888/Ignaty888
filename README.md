@@ -43,7 +43,7 @@
 
 <br/>
 <br/>
-[![codewars](https://www.codewars.com/users/Elf_ik/badges/small)](https://www.codewars.com/users/Elf_ik)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/ignaty888/github-readme-stats)
 <br/>
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ignaty888&layout=compact)](https://github.com/ignaty888/github-readme-stats)]
+
